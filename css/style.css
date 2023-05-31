@@ -42,3 +42,8 @@ p {
 body {
     font-family: Arial, sans-serif;
 }
+
+.fotorama {
+    display: flex;
+    justify-content: center;
+}
